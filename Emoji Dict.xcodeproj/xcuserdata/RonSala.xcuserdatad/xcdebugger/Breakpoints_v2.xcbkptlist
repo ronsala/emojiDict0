@@ -19,5 +19,96 @@
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Emoji Dict/ViewController.swift"
+            timestampString = "506950840.472107"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dict.ViewController.__deallocating_deinit"
+                  moduleName = "Emoji Dict"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/RonSala/Desktop/Emoji%20Dict/Emoji%20Dict/ViewController.swift"
+                  timestampString = "506950841.165447"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dict.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Emoji_Dict.ViewController"
+                  moduleName = "Emoji Dict"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/RonSala/Desktop/Emoji%20Dict/Emoji%20Dict/ViewController.swift"
+                  timestampString = "506950841.167179"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dict.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Emoji_Dict.ViewController"
+                  moduleName = "Emoji Dict"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/RonSala/Desktop/Emoji%20Dict/Emoji%20Dict/ViewController.swift"
+                  timestampString = "506950841.168756"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dict.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Emoji_Dict.ViewController&gt;"
+                  moduleName = "Emoji Dict"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/RonSala/Desktop/Emoji%20Dict/Emoji%20Dict/ViewController.swift"
+                  timestampString = "506950841.170423"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dict.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Emoji_Dict.ViewController&gt;"
+                  moduleName = "Emoji Dict"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/RonSala/Desktop/Emoji%20Dict/Emoji%20Dict/ViewController.swift"
+                  timestampString = "506950841.171988"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
